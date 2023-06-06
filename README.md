@@ -1,2 +1,1 @@
-My first readme
-I'm getting better
+my first readme
